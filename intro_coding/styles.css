@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Matemasie&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    background-color: #d3d3d3;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:visited {
+    text-decoration: underline;
+    color: purple;
+}
+
+header {
+    background-color: pink;
+}
+
+footer {
+    background-color: #8410d0;
+}
+
+.div1 {
+    background-color: #ba7264;
+}
+
+.div2 {
+    background-color: #6467b9;
+    font-family: 'Roboto', sans-serif;
+}
+
+.div3 {
+    background-color: purple;
+    color: #FFF;
+    font-family: 'Matemasie', sans-serif;
+}
+
+.css_paddings {
+    background-color: red;
+    color: #FFF;
+    padding: 20px;
+}
+
+.css_margins {
+    background-color: green;
+    color: #FFF;
+    margin: 20px;
+}
+
+.css_bloqueslinea {
+    background-color: pink;
+}
+
+.css_bloques2 {
+    background-color: greenyellow;
+    display: flex;
+
+}
+
+.css_bloques2_left {
+    width: 50%;
+}
+
+.css_bloques2_right {
+    width: 50%;
+}
+
+.pokemon {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+
+.pokemon_redondeado {
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    border: 2px solid rgb(34, 0, 255);
+    box-shadow: 0 4px 8px #000;
+}
+
+.imagen_ja {
+    margin-left: 30px;
+    width: 250px;
+    height: 400px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+.clase_container {
+    background-color: red;
+}
+
+.clase_container-md {
+    background-color: green;
+}
+
+.clase_container-lg {
+    background-color: blue;
+}
+
+.clase_container-fluid {
+    background-color: purple;
+}
+
+.space {
+    margin-top: 20px;
+}
+
+.color1 {
+    background-color: #6467b9;
+    color: #FFF;
+}
+
+.color2 {
+    background-color: #003366;
+    color: #FFF;
+}
+
+.color3 {
+    background-color: greenyellow;
+}
+
+.color4 {
+    background-color: red;
+}
+
+.cuento {
+    display: none;
+}
