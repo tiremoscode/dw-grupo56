@@ -12,11 +12,13 @@ Soy una persona creativa, con gran interés por los trabajos manuales; meticulos
 
 ## 🌎 IDIOMAS
 
-🇺🇸 Inglés: Básico
+🇺🇸 **Inglés:** Básico.
 
 ## 👩🏽‍💻 HABILIDADES
-🎨 **Adobe Cretive Cloud** | *Photoshop, Ilustrator, After Effects e  InDesing.* | Básico
-💻 **Paqueteria de office** | Básico.
+
+🎨 **Adobe Cretive Cloud:** | *Photoshop, Ilustrator, After Effects e  InDesing.* | Básico
+
+💻 **Paqueteria de office:** | Básico.
 
 ## 🎓 FORMACIÓN ACADÉMICA 
 
@@ -32,7 +34,7 @@ Soy una persona creativa, con gran interés por los trabajos manuales; meticulos
 
 ⚪️ **Familia en Aguascalientes** | NIÑERA | *02/2023 - 11/2023* 
 
-⚪️ **Hotel Hyatt Regency México City* | BECARIA DEL PROGRAMA DE CAPACITACIÓN "VISIÓN JOVEN"  DE FUNDACIÓN WORLD VISIÓN | *07/2022 - 10/2022* | 
+⚪️ **Hotel Hyatt Regency México City** | BECARIA DEL PROGRAMA DE CAPACITACIÓN "VISIÓN JOVEN"  DE FUNDACIÓN WORLD VISIÓN | *07/2022 - 10/2022* | 
  Trabajo en diferentes áreas del hotel como lavaloza, atención al huésped, en el área de room service donde seguí desarrollando mis habilidades de atención al cliente y atención a los detalles, finalmente en el área de cocina como auxiliar.
 
 ⚪️ **Dirección Territorial No. 10 Alcaldía Gustavo A. Madero** | BECARIA DE JÓVENES CONSTRUYENDO EL FUTURO | *05/2019 - 05/2020* | 
