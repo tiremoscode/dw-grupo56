@@ -1,4 +1,4 @@
 ## CV susanamont
-Susana Montiel Delgado
-susanamontdel@hotmail.com
-Quintana Roo
+Nombre - Susana Montiel Delgado
+correo - susanamontdel@hotmail.com
+Estado - Quintana Roo
