@@ -37,4 +37,3 @@ Soy una persona creativa, con gran interés por los trabajos manuales; meticulos
 
 ⚪️ Fundación Forge      Programa “Tu futuro”                                                                08/2020 – 06/2021
    Desarrollo de habilidades socioemocionales para el trabajo.
-
