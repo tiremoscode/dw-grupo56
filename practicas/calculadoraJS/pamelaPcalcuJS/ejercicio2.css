@@ -1,0 +1,19 @@
+.calculadora {
+    background-color: #bde8e5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #8cbab3;
+
+}
+
+.datos {
+    background-color: #d5fffe;
+
+}
+
+.resultado {
+    background-color: #8cbab3;
+    color: black;
+
+}
