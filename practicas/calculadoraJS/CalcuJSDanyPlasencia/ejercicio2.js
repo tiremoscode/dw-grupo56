@@ -14,8 +14,8 @@ function sumar() {
 }
 
 function restar() {
-    const valor1 = parseInt(document.getElementById('numero3').value);
-    const valor2 = parseInt(document.getElementById('numero4').value);
+    const valor1 = parseInt(document.getElementById('numero1').value);
+    const valor2 = parseInt(document.getElementById('numero2').value);
 
     console.log('Valor 1 ' + valor1);
     console.log('valor 2 ' + valor2);
@@ -23,44 +23,28 @@ function restar() {
     const resta = valor1 - valor2;
     console.log(resta);
 
-    const resultadoresta = document.getElementById('resultadoresta');
-    resultadoresta.innerHTML = `Resultado: ${resta}`;
+    const resultado = document.getElementById('resultado');
+    resultado.innerHTML = `Resultado: ${resta}`;
 
 }
 
 function multiplicar() {
-    const valor1 = parseInt(document.getElementById('numero5').value);
-    const valor2 = parseInt(document.getElementById('numero6').value);
+    const valor1 = parseInt(document.getElementById('numero1').value);
+    const valor2 = parseInt(document.getElementById('numero2').value);
 
     console.log('Valor 1 ' + valor1);
     console.log('valor 2 ' + valor2);
 
     const multiplicacion = valor1 * valor2;
     console.log(multiplicacion);
-
-    const resultadomutiplicacion = document.getElementById('resultadomultiplicacion');
-    resultadomutiplicacion.innerHTML = `Resultado: ${multiplicacion}`;
-
-}
-
-function restar() {
-    const valor1 = parseInt(document.getElementById('numero3').value);
-    const valor2 = parseInt(document.getElementById('numero4').value);
-
-    console.log('Valor 1 ' + valor1);
-    console.log('valor 2 ' + valor2);
-
-    const resta = valor1 - valor2;
-    console.log(resta);
-
-    const resultadoresta = document.getElementById('resultadoresta');
-    resultadoresta.innerHTML = `Resultado: ${resta}`;
+    const resultado = document.getElementById('resultado');
+    resultado.innerHTML = `Resultado: ${multiplicacion}`;
 
 }
 
 function dividir() {
-    const valor1 = parseInt(document.getElementById('numero7').value);
-    const valor2 = parseInt(document.getElementById('numero8').value);
+    const valor1 = parseInt(document.getElementById('numero1').value);
+    const valor2 = parseInt(document.getElementById('numero2').value);
 
     console.log('Valor 1 ' + valor1);
     console.log('valor 2 ' + valor2);
@@ -68,7 +52,7 @@ function dividir() {
     const division = valor1 / valor2;
     console.log(division);
 
-    const resultadodivision = document.getElementById('resultadodivision');
-    resultadodivision.innerHTML = `Resultado: ${division}`;
+    const resultado = document.getElementById('resultado');
+    resultado.innerHTML = `Resultado: ${division}`;
 
 }
