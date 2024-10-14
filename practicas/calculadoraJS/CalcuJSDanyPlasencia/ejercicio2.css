@@ -1,0 +1,25 @@
+.calculadora {
+    background-color: purple;
+    display: flex;
+    flex-direction: column;
+}
+
+.datos {
+    background-color: plum;
+}
+
+.resultado {
+    background-color: pink;
+
+}
+.resultadoresta {
+    background-color: palevioletred;
+
+}
+.resultadomultiplicacion {
+    background-color: pink;
+}
+
+.resultadodivision {
+    background-color: palevioletred;
+}
