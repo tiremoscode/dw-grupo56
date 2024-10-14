@@ -1,0 +1,20 @@
+.calculadora {
+    background-color: #02d2da;
+    display: flex;
+    flex-direction: column;
+}
+
+.datos {
+    background-color: #5988f4;
+}
+
+.resultado {
+    background-color: #73d7e9f8;
+}
+
+.estiloDeBotones {
+    background-color: rgb(241, 140, 62);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
