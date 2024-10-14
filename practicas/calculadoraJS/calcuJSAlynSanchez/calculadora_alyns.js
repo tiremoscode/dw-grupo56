@@ -18,8 +18,8 @@ function resta() {
     const valor1 = parseInt(document.getElementById('numero1').value);
     const valor2 = parseInt(document.getElementById('numero2').value);
 
-    console.log('Valor 1 ' - valor1);
-    console.log('valor 2 ' - valor2);
+    console.log('Valor 1 ' + valor1);
+    console.log('valor 2 ' + valor2);
 
     const resta = valor1 - valor2;
     console.log(resta);
@@ -34,8 +34,8 @@ function multiplicar() {
     const valor1 = parseInt(document.getElementById('numero1').value);
     const valor2 = parseInt(document.getElementById('numero2').value);
 
-    console.log('Valor 1 ' * valor1);
-    console.log('valor 2 ' * valor2);
+    console.log('Valor 1 ' + valor1);
+    console.log('valor 2 ' + valor2);
 
     const multiplicar = valor1 * valor2;
     console.log(multiplicar);
@@ -49,8 +49,8 @@ function dividir() {
     const valor1 = parseInt(document.getElementById('numero1').value);
     const valor2 = parseInt(document.getElementById('numero2').value);
 
-    console.log('Valor 1 ' / valor1);
-    console.log('valor 2 ' / valor2);
+    console.log('Valor 1 ' + valor1);
+    console.log('valor 2 ' + valor2);
 
     const dividir = valor1 / valor2;
     console.log(dividir);
