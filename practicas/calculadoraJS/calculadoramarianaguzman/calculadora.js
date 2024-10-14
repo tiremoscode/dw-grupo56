@@ -11,5 +11,5 @@ function sumar() {
 
     const resultado = document.getElementById('resultado');
     resultado.innerHTML = `Resultado: ${suma}`;
-
+    resultado.innerHTML = `Resultado2: ${resta}`;
 }
