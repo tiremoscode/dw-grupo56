@@ -1,0 +1,16 @@
+.calculadora {
+    background-color: blueviolet;
+    border: 2px solid lightblue;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.datos {
+    background-color: azure;
+}
+
+.resultado {
+    background-color: antiquewhite;
+}
