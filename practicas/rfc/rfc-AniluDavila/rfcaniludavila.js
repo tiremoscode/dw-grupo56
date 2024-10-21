@@ -26,10 +26,10 @@ rl.question('Nombre(s): ', (nombre) => {
         rl.question('Apellido Materno: ', (apellidoMaterno) => {
             rl.question('Día de Nacimiento (2 dígitos): ', (dia) => {
                 rl.question('Mes de Nacimiento (2 dígitos): ', (mes) => {
-                    rl.question('Año de Nacimiento (ultimos 2 dígitos): ', (anio) => {  // Cambiado a 4 dígitos
-                        // Asegúrate de que dia y mes tienen 2 dígitos
+                    rl.question('Año de Nacimiento (ultimos 2 dígitos): ', (anio) => {  
+                    
                         const rfc = generarRFC(nombre, apellidoPaterno, apellidoMaterno, dia.padStart(2, '0'), mes.padStart(2, '0'), anio);
-                        // Mostrar el RFC en consola
+                         
                         console.log('El RFC generado es: ' + rfc);
 
                         rl.close();
