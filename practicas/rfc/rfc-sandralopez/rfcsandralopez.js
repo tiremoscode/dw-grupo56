@@ -19,12 +19,12 @@ function generarRfc(apellidoPaterno, apellidoMaterno, nombre, fechaDeNacimiento)
         }
     }
 
-    const fechaPartes = fechaDeNacimiento.split('-');
+    const fechas = fechaDeNacimiento.split('-');
 
-    if (fechaPartes.length === 3) {
-        const año = fechaPartes[0].slice(-2); 
-        const mes = fechaPartes[1]; 
-        const dia = fechaPartes[2]; 
+    if (fechas.length === 3) {
+        const año = fechas[0].slice(-2); 
+        const mes = fechas[1]; 
+        const dia = fechas[2]; 
 
    
         return `${dosLetrasPaterno}${vocal}${primerLetraMaterno}${primerLetraNombre}${año}${mes}${dia}XXX`;
