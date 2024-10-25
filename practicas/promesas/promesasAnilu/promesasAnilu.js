@@ -1,5 +1,5 @@
 function obtenerHechizos() {
-    // url: https://hp-api.onrender.com/
+    // url Harry Potter: https://hp-api.onrender.com/
     const url = 'https://hp-api.onrender.com/api/spells';
     fetch(url)
         .then(respuesta => respuesta.json()) 
