@@ -1,5 +1,6 @@
 
 
+
 function obtenerPersonaje() {
     const url = 'https://www.breakingbadapi.com/api/';
 
