@@ -15,6 +15,7 @@ function obtenerPersonaje() {
             console.log('Hubo un error', error);
         });
 };
+
 obtenerPersonaje();
 
 
