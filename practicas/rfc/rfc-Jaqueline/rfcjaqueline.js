@@ -16,7 +16,11 @@ rl.question('¿Cuál es tu nombre?', (name) => {
                     
                     rl.question('¿Cuál es tu Año de Nacimiento (2 dígitos)? ', (anioNac) => {
 
-                         console.log(`Obtendras tu RFC: ${name + apellidoPaterno +apellidoMaterno +diaNac+mesNac+anioNac+ "xxx"}`)
+                        let mirfc = apellidoPaterno +apellidoMaterno + name +diaNac+mesNac+anioNac+ "xxx"
+                        console.log(mirfc.toUpperCase())
+                        
+
+
                    
 
 
