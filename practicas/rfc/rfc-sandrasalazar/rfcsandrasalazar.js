@@ -20,7 +20,7 @@ rl.question('¿Cuál es tu nombre?', (name) => {
             rl.question('¿Cuál es tu día de nacimiento?', (día) => {
                 rl.question('¿Cuál es tu mes de nacimiento?', (mes) => {
                     rl.question('¿Cuál es tu anio de nacimiento?', (anio) => {
-                        console.log( name +paterno + materno + día + mes + anio + "xxx")
+                        console.log( paterno + materno + name + anio + mes + dia + "xxx")
                     })
                 })
 
