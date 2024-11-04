@@ -1,0 +1,33 @@
+/* Pseudoclases
+    Definir un estado especial de un elemento.
+    Se añaden después del nombre de mi selector con dos puntos :
+    y esto van a permtiri aplicar estilos a elementos
+    en diferentes situaciones.
+*/
+
+a:hover {
+    color: red;
+}
+
+input:focus {
+    border-color: green;
+}
+
+/* 
+pseudo elementos 
+
+se utilizan para aplicar estilos a una parte de
+un elemento. Se añaden con :: (dos veces dos puntos) y
+permite seleccionar y darle estilo a un elemento.
+
+*/
+
+h1::before {
+    content: "¡";
+    color: red;
+}
+
+h1::after {
+    content: "!";
+    color: blue;
+}
