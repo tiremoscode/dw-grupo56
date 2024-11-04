@@ -1,0 +1,14 @@
+.calculadora {
+    background-color: #939edb;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.datos {
+    background-color: rgb(117, 177, 205);
+}
+
+.resultado {
+    background-color: rgb(253, 149, 149);
+}

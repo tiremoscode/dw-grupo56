@@ -1,0 +1,16 @@
+.calculadora{
+    background-color: rgb(120, 90, 148);
+    border: 2px solid rgb(212, 162, 162);
+    display: flex;
+    flex-direction: column;
+}
+
+.datos{
+    background-color: rgb(187, 81, 190);
+    flex-direction: column;
+}
+
+
+.resultado{
+background-color: rgb(131, 106, 224);
+}
