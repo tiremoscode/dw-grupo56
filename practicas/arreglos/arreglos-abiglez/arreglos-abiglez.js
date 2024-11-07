@@ -83,7 +83,7 @@ function menuPrincipal() {
             default:
                 console.log("Opción no válida. Intenta nuevamente.");
                 menuPrincipal();
-                break;
+                break; 
         }
     });
 }
