@@ -30,3 +30,4 @@ function resultados() {
     console.log(`Tu RFC es: ${aPaterno}${aMaterno}${nombre}${fecha}xxx`);
 }
 
+
