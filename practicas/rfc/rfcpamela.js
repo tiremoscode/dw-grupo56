@@ -28,6 +28,6 @@ rl.question('Vamos a obtener tu RFC, introduce tu apellido paterno: ', (paterno)
 
 function resultados() {
     console.log(`Tu RFC es: ${aPaterno}${aMaterno}${nombre}${fecha}xxx`);
-}
+} 
 
 
