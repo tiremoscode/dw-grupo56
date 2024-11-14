@@ -1,0 +1,27 @@
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px solid rgba(26, 102, 109, 0.5);
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid rgba(26, 102, 109, 0.5);
+    padding: 10px;
+}
+
+thead {
+    background-color: #1A666D;
+    color: #fff;
+    font-size: 12px;
+}
+
+tbody {
+    font-size: 10px;
+}
+
+.nombre-platillo {
+    color: #1A666D;
+    font-weight: 600;
+}
