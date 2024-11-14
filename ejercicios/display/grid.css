@@ -1,0 +1,22 @@
+/* Grid css
+display: grid. Activar el sistema de diseño en formato cuadricula.
+grid-template-columns. Definir las columnas del grid.
+grid-template-rows. Define las filas del grid.
+grid-gap. Definir el espacio entre las celdas de la cuadricula.
+*/
+
+.alumnasGrupo56 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    height: 100vh;
+    background-color: lightgray;
+}
+
+.alumna {
+    height: 100px;
+    color: #FFF;
+    text-align: center;
+    background-color: #4caf50;
+    line-height: 100px;
+}

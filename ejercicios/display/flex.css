@@ -1,0 +1,19 @@
+.alumnasGrupo56 {
+    display: flex;
+    /* Distribuye el espacio disponible entre los alumnos */
+    justify-content: space-between;
+    /* Centrar elementos de manera verical */
+    align-items: center;
+    height: 100vh;
+    background-color: lightgray;
+    flex-direction: column;
+}
+
+.alumna {
+    width: 100px;
+    height: 100px;
+    color: #FFF;
+    text-align: center;
+    background-color: #4caf50;
+    line-height: 100px;
+}

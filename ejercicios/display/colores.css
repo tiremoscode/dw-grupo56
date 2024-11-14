@@ -1,0 +1,63 @@
+:root {
+    /* Color Gris Claro */
+    --color-primario: #d3d3d3;
+    /* Color Verde */
+    --color-verde: #4caf50;
+    /* Color Morado */
+    --color-morado: #f4f4;
+    /* Color Azul Rey */
+    --color-azul: #4b79a7;
+    /* Color Blanco */
+    --color-blanco: #FFF;
+    /* Color Gris Oscuro */
+    --color-gris: #333;
+}
+
+body {
+    background-color: var(--color-primario);
+}
+
+.contenedor {
+    display: grid;
+    /* 1 columna para la bara lateral, 3 columnas para el contenido de la pagina*/
+    grid-template-columns: 1fr 3fr;
+    /* Filas. 1 fr para Cabecera (header), contenido principal y pie de pagina (footer) */
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas: "header header" "sidebar content" "footer footer";
+    gap: 20px;
+    height: 100vh;
+}
+
+header {
+    grid-area: header;
+    background-color: var(--color-verde);
+    color: var(--color-blanco);
+    padding: 20px;
+    text-align: center;
+}
+
+aside {
+    grid-area: sidebar;
+    background-color: var(--color-morado);
+    padding: 20px;
+}
+
+main {
+    grid-area: content;
+    background-color: var(--color-blanco);
+    padding: 20px;
+    border-left: 2px solid var(--color-azul);
+}
+
+footer {
+    grid-area: footer;
+    background-color: var(--color-gris);
+    color: var(--color-blanco);
+    text-align: center;
+    padding: 10px;
+}
+
+.masContenido {
+    display: flex;
+    flex-direction: column;
+}
