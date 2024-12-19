@@ -1,5 +1,4 @@
-## CV Karelyn
-Hacer introduccion de CV
-Nombre completo
-Correo
-Estado del país
+## cv Karelyn
+Ana Karelyn López Espinoza
+crowigne.karelyn@gmail.com
+Ciudad de México
